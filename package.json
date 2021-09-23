@@ -1,0 +1,17 @@
+{
+  "name": "app-clima",
+  "version": "1.0.0",
+  "description": "App Creada en NodeJs la cual se ejecuta en Consola consume varias API publicas.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "SamirVergara\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D \u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[DVergara V",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "colors": "^1.4.0",
+    "dotenv": "^10.0.0",
+    "inquirer": "^8.1.2"
+  }
+}
